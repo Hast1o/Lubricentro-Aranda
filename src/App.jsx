@@ -16,8 +16,8 @@ import {
   CreditCard,
   Banknote,
   Landmark,
-  Menu, // Agregado para el menú móvil
-  X     // Agregado para cerrar el menú móvil
+  Menu, 
+  X     
 } from "lucide-react";
 import logo from "./assets/logo.png";
 import nosotros from "./assets/Nosotros.jpg";
